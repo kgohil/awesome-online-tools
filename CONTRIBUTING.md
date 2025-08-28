@@ -90,6 +90,7 @@ Thank you for your interest in contributing to Awesome Online Tools!
    ```bash
    git checkout -b add-new-tool
    ```
+
 3. **Add your entry** in the appropriate category
 4. **Update the Table of Contents** if adding new categories
 5. **Commit your changes** with a descriptive message:
@@ -97,6 +98,7 @@ Thank you for your interest in contributing to Awesome Online Tools!
    ```bash
    git commit -m "Add [Tool Name] to [Category]"
    ```
+
 6. **Submit a pull request** with:
    - Clear title describing the addition
    - Brief explanation of why the tool is useful
