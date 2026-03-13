@@ -8,6 +8,10 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list phenomenon.*
 
+## All-in-One Toolkit
+
+- [ToolArks](https://toolarks.com/) - A comprehensive collection of privacy-first browser-based tools including JSON/YAML editors, text/code diff tools, cron generator, time zone converter, and more. All processing happens locally in your browser.
+
 ## Contents
 
 - [Code Editors & Programming Languages](#code-editors--programming-languages)
