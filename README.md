@@ -41,6 +41,7 @@
   editor with formatting, validation, tree view, schema validation, and AI
   assistance.
 - [YAML Editor](https://www.tools-online.app/tools/yaml) - Online YAML
+- [UtilShed](https://utilshed.com) - 100+ free, privacy-first developer tools: JSON formatter, Base64 encoder, UUID generator, regex tester, hash generator, JWT decoder, and more. All processing in-browser, no data sent to servers. Open source.
   editor with schema validation, multi-document support, and AI assistance.
 
 ## Text & Content Tools
