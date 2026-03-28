@@ -65,6 +65,7 @@
 ## File Management Tools
 
 - [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
+- [PicShift](https://picshift.app) - Browser-based image converter supporting HEIC, WebP, AVIF, PNG, and JPG with batch processing and offline support.
 
 ## DevOps & System Tools
 
