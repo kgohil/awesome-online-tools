@@ -42,6 +42,7 @@
   assistance.
 - [YAML Editor](https://www.tools-online.app/tools/yaml) - Online YAML
   editor with schema validation, multi-document support, and AI assistance.
+- [DevPick](https://devpick.sh) - Browser-based developer utilities for JSON, Base64, regex, timestamps, PDFs, and SEO.
 
 ## Text & Content Tools
 
