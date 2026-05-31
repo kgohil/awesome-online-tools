@@ -17,6 +17,7 @@
 - [Comparison & Analysis Tools](#comparison--analysis-tools)
 - [File Management Tools](#file-management-tools)
 - [DevOps & System Tools](#devops--system-tools)
+- [Developer Utility Collections](#developer-utility-collections)
 
 ## Code Editors & Programming Languages
 
@@ -70,6 +71,10 @@
 
 - [Cron Expression Generator](https://www.tools-online.app/tools/cron) - Visual crontab generator with real-time preview, plain English descriptions, and common schedule templates.
 - [World Time Zone Converter](https://www.tools-online.app/tools/timezone) - Online timezone converter with multi-zone comparison, business hours visualization, and DST smart detection.
+
+## Developer Utility Collections
+
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free collection of single-purpose browser-based web utilities. Includes favicon generator, color palette generator, OG image generator, domain name generator, SEO meta tag generator, AI background remover (runs locally), AI cost calculator, EU AI Act content disclosure generator, and AI robots.txt generator. No signup required, open source.
 
 ## Contributing
 
