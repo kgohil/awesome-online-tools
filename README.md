@@ -65,6 +65,7 @@
 ## File Management Tools
 
 - [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free, privacy-first online PDF toolkit — merge, split, compress, convert, OCR, e-sign. All client-side; files never leave the browser.
 
 ## DevOps & System Tools
 
