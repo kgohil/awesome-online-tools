@@ -64,6 +64,8 @@
 
 ## File Management Tools
 
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG converter that runs entirely in your browser. 100% client-side, no upload, unlimited conversions.
+
 - [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
 
 ## DevOps & System Tools
