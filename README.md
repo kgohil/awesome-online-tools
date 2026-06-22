@@ -17,6 +17,7 @@
 - [Comparison & Analysis Tools](#comparison--analysis-tools)
 - [File Management Tools](#file-management-tools)
 - [DevOps & System Tools](#devops--system-tools)
+- [Calculators & Everyday Utilities](#calculators--everyday-utilities)
 
 ## Code Editors & Programming Languages
 
@@ -70,6 +71,13 @@
 
 - [Cron Expression Generator](https://www.tools-online.app/tools/cron) - Visual crontab generator with real-time preview, plain English descriptions, and common schedule templates.
 - [World Time Zone Converter](https://www.tools-online.app/tools/timezone) - Online timezone converter with multi-zone comparison, business hours visualization, and DST smart detection.
+
+## Calculators & Everyday Utilities
+
+- [Calnex](https://calnex.pro) - Browser-local calculators for finance, health, math, physics, units, and planning.
+- [Calculator.net](https://www.calculator.net) - Online calculators for finance, math, fitness, health, and everyday tasks.
+- [Omni Calculator](https://www.omnicalculator.com) - Scientific and everyday calculators for health, finance, construction, and more.
+- [UnitConverters.net](https://www.unitconverters.net) - Unit conversion calculators for length, temperature, area, volume, and weight.
 
 ## Contributing
 
