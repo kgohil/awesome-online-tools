@@ -15,6 +15,7 @@
 - [Text & Content Tools](#text--content-tools)
 - [Diagram & Visualization Tools](#diagram--visualization-tools)
 - [Comparison & Analysis Tools](#comparison--analysis-tools)
+- [Calculator & Everyday Tools](#calculator--everyday-tools)
 - [File Management Tools](#file-management-tools)
 - [DevOps & System Tools](#devops--system-tools)
 
@@ -61,6 +62,10 @@
 - [JSON Compare Tool](https://www.tools-online.app/tools/json-compare) - Compare JSON files with semantic analysis, tree view of changes, and property-level merge editor.
 - [Code Compare Tool](https://www.tools-online.app/tools/code-compare) - Compare source code with semantic analysis, VS Code-style line merge, and intelligent merging for JavaScript, TypeScript, Python, Java, and C#.
 - [YAML Compare Tool](https://www.tools-online.app/tools/yaml-compare) - Compare YAML files with structure preservation, comment handling, and anchor/alias support for DevOps configurations.
+
+## Calculator & Everyday Tools
+
+- [Jisuanqi 3000](https://jsq3000.com) - Free China-localized online calculators for mortgage, income tax, salary, auto purchase cost, compound interest, BMI, body fat, and more.
 
 ## File Management Tools
 
