@@ -63,7 +63,7 @@
 - [YAML Compare Tool](https://www.tools-online.app/tools/yaml-compare) - Compare YAML files with structure preservation, comment handling, and anchor/alias support for DevOps configurations.
 
 ## File Management Tools
-
+- [SwiftTooly](https://swifttooly.com) - 50+ free privacy-first browser-based tools for PDF, images, text, QR codes, converters, calculators, and developer utilities. No upload, no sign-up, and all tools run locally in the browser.
 - [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
 
 ## DevOps & System Tools
