@@ -42,6 +42,7 @@
   assistance.
 - [YAML Editor](https://www.tools-online.app/tools/yaml) - Online YAML
   editor with schema validation, multi-document support, and AI assistance.
+- [ToolBox Pro](https://dingpeng29.github.io/) - Developer toolbox with JSON, YAML, and SQL formatters and validators. All processing client-side.
 
 ## Text & Content Tools
 
@@ -70,6 +71,7 @@
 
 - [Cron Expression Generator](https://www.tools-online.app/tools/cron) - Visual crontab generator with real-time preview, plain English descriptions, and common schedule templates.
 - [World Time Zone Converter](https://www.tools-online.app/tools/timezone) - Online timezone converter with multi-zone comparison, business hours visualization, and DST smart detection.
+- [ToolBox Pro](https://dingpeng29.github.io/) - Developer toolbox with password/UUID generators, timestamp converter, cron generator, PDF toolkit, and more.
 
 ## Contributing
 
