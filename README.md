@@ -65,6 +65,7 @@
 ## File Management Tools
 
 - [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
+- [Quick Image Kit](https://quickimagekit.com/) - Compress, resize, convert, crop images, and generate favicons client-side.
 
 ## DevOps & System Tools
 
