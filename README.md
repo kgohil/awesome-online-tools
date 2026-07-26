@@ -37,6 +37,7 @@
 
 ## Data & Configuration Tools
 
+- [NexaTools JSON Formatter](https://nexatools.in/developer-tools/json-formatter) - Formats, validates, and inspects JSON data with syntax highlighting and error detection.
 - [JSON Editor](https://www.tools-online.app/tools/json) - Online JSON
   editor with formatting, validation, tree view, schema validation, and AI
   assistance.
@@ -63,12 +64,14 @@
 - [YAML Compare Tool](https://www.tools-online.app/tools/yaml-compare) - Compare YAML files with structure preservation, comment handling, and anchor/alias support for DevOps configurations.
 
 ## File Management Tools
-
+- [NexaTools EXIF Stripper](https://nexatools.in/media-tools/exif-stripper) - Removes GPS coordinates, camera model, and timestamps from JPEG, PNG, and WebP files in-browser.
+- [NexaTools P2P File Transfer](https://nexatools.in/utility-tools/file-transfer) - Transfers files directly between browsers via WebRTC with no cloud storage or file size limits.
 - [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
 
 ## DevOps & System Tools
 
 - [Cron Expression Generator](https://www.tools-online.app/tools/cron) - Visual crontab generator with real-time preview, plain English descriptions, and common schedule templates.
+- [NexaTools MS Store Generator](https://nexatools.in/utility-tools/microsoft-store-generator) - Generates direct download links for Microsoft Store .msixbundle and .appx packages with PowerShell install scripts.
 - [World Time Zone Converter](https://www.tools-online.app/tools/timezone) - Online timezone converter with multi-zone comparison, business hours visualization, and DST smart detection.
 
 ## Contributing
