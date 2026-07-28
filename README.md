@@ -68,6 +68,7 @@
 
 ## DevOps & System Tools
 
+- [JieBang Tools](https://www.jiebang.site/) - 170+ free browser-based developer tools including chmod calculator, cron parser, JSON formatter, Base64 encoder/decoder, password generator, and more. All processing happens client-side.
 - [Cron Expression Generator](https://www.tools-online.app/tools/cron) - Visual crontab generator with real-time preview, plain English descriptions, and common schedule templates.
 - [World Time Zone Converter](https://www.tools-online.app/tools/timezone) - Online timezone converter with multi-zone comparison, business hours visualization, and DST smart detection.
 
