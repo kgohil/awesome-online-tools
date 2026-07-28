@@ -49,6 +49,7 @@
 - [AI-Powered Online Notepad](https://www.tools-online.app/tools/notepad) - Online AI-powered notepad with grammar checking, writing assistance, rich text formatting, LaTeX support, and media embedding.
 - [MJML Email Editor](https://www.tools-online.app/tools/mjml) - Online MJML editor with real-time compilation, responsive email design, and AI-powered template generation.
 
+- [Openware](https://www.openware.top) - 15 privacy-first developer tools including JSON formatter, SQL formatter, XML formatter, Base64 encoder, hash generator, JWT decoder, UUID generator, and password generator. All processing happens in browser, no data sent to servers.
 ## Diagram & Visualization Tools
 
 - [Mermaid Diagram Editor](https://www.tools-online.app/tools/mermaid) - Online Mermaid diagram editor with real-time preview, multiple diagram types, and AI assistance.
