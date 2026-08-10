@@ -42,6 +42,7 @@
   assistance.
 - [YAML Editor](https://www.tools-online.app/tools/yaml) - Online YAML
   editor with schema validation, multi-document support, and AI assistance.
+- [Korelyy](https://korelyy.com) - Privacy-first all-in-one collection of 100+ free online tools (image, PDF, JSON, unit, generators). No signup, six languages, runs entirely in your browser.
 
 ## Text & Content Tools
 
