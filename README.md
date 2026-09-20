@@ -48,6 +48,7 @@
 - [Markdown Editor](https://www.tools-online.app/tools/markdown) - Online Markdown editor with live preview, GitHub-flavored syntax, and image support.
 - [AI-Powered Online Notepad](https://www.tools-online.app/tools/notepad) - Online AI-powered notepad with grammar checking, writing assistance, rich text formatting, LaTeX support, and media embedding.
 - [MJML Email Editor](https://www.tools-online.app/tools/mjml) - Online MJML editor with real-time compilation, responsive email design, and AI-powered template generation.
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance invoice, quote, receipt, and client paperwork generators (print to PDF, no signup).
 
 ## Diagram & Visualization Tools
 
