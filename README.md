@@ -59,6 +59,7 @@
 - [Data Comparison Tool](https://www.tools-online.app/tools/comparison) - Online data comparison tool with Excel/CSV import, interactive column mapping, and visual difference highlighting.
 - [Text Compare Tool](https://www.tools-online.app/tools/text-compare) - Compare text files and documents online with dynamic change summary, multi-factor complexity scoring, and security-focused character detection.
 - [JSON Compare Tool](https://www.tools-online.app/tools/json-compare) - Compare JSON files with semantic analysis, tree view of changes, and property-level merge editor.
+- [BestJSON JSON Diff](https://bestjson.com/json-diff) - Compare JSON structures and inspect changed values by path in the browser.
 - [Code Compare Tool](https://www.tools-online.app/tools/code-compare) - Compare source code with semantic analysis, VS Code-style line merge, and intelligent merging for JavaScript, TypeScript, Python, Java, and C#.
 - [YAML Compare Tool](https://www.tools-online.app/tools/yaml-compare) - Compare YAML files with structure preservation, comment handling, and anchor/alias support for DevOps configurations.
 
