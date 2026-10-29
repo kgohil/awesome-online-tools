@@ -65,6 +65,7 @@
 ## File Management Tools
 
 - [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
+- [HandleMyFile](https://handlemyfile.com/) - 100% private in-browser document processing and converter suite (PDF to Word .docx, OCR, merge) powered by client-side WebAssembly with zero server uploads.
 
 ## DevOps & System Tools
 
