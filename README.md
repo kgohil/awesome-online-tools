@@ -48,6 +48,7 @@
 - [Markdown Editor](https://www.tools-online.app/tools/markdown) - Online Markdown editor with live preview, GitHub-flavored syntax, and image support.
 - [AI-Powered Online Notepad](https://www.tools-online.app/tools/notepad) - Online AI-powered notepad with grammar checking, writing assistance, rich text formatting, LaTeX support, and media embedding.
 - [MJML Email Editor](https://www.tools-online.app/tools/mjml) - Online MJML editor with real-time compilation, responsive email design, and AI-powered template generation.
+- [Token Counter](https://sqmagazine.co.uk/token-counter/) - In-browser token counter for OpenAI models with zero server-side data storage.
 
 ## Diagram & Visualization Tools
 
@@ -69,6 +70,7 @@
 ## DevOps & System Tools
 
 - [Cron Expression Generator](https://www.tools-online.app/tools/cron) - Visual crontab generator with real-time preview, plain English descriptions, and common schedule templates.
+- [Uptime Calculator](https://sqmagazine.co.uk/uptime-calculator/) - Calculates allowable downtime for SLA targets across daily, monthly, and yearly periods.
 - [World Time Zone Converter](https://www.tools-online.app/tools/timezone) - Online timezone converter with multi-zone comparison, business hours visualization, and DST smart detection.
 
 ## Contributing
