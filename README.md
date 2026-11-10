@@ -65,6 +65,7 @@
 ## File Management Tools
 
 - [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
+- [BetterPDF Convert](https://betterpdfconvert.com/) - Free browser-based EPUB, AZW3, and MOBI to PDF converter preserving clickable Table of Contents bookmarks with iPad GoodNotes and E-ink device page presets.
 
 ## DevOps & System Tools
 
