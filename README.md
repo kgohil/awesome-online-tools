@@ -65,6 +65,7 @@
 ## File Management Tools
 
 - [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
+- [TinyMast PDF Compressor](https://tinymast.com/pdf-compress/) - Compresses PDFs to a target size, with merge, split, OCR, and conversion; uploads deleted within 24 hours.
 
 ## DevOps & System Tools
 
